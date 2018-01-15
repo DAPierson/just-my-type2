@@ -40,3 +40,12 @@
 .glyphicon-remove {
   color : #CD2626
 }
+
+#mydiv {
+  height : 3em;
+  width : 3em;
+  background-color : blue;
+}
+.highlight{
+  background-color : yellow;
+}
